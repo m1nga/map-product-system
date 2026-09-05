@@ -49,7 +49,7 @@ npx skills add m1nga/map-product-system
 
 - [`loop-system-architect`](https://github.com/m1nga/loop-system-architect/) — once the map names an
   autonomous capability, that skill designs the loop that runs it.
-- `diagnose-project-rebuild` — when the audit finds the architecture is
+- [`diagnose-project-rebuild`](https://github.com/m1nga/diagnose-project-rebuild/) — when the audit finds the architecture is
   accidental rather than incomplete, that skill decides whether to rebuild.
 
 ## Design notes
