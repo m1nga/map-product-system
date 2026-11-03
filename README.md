@@ -85,3 +85,9 @@ cleanup. This checks instruction behavior, not human adoption or measured time s
 ## Author
 
 Built by [Ming](https://github.com/m1nga). The design notes above explain the real problem and tradeoffs that shaped this skill.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+A product map can lead to a small change worth trying. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=map-product-system) for work people have shared, or bring a prototype and explain what you want to learn from it.
+<!-- sidecourt-referral:end -->
